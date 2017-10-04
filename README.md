@@ -2,6 +2,8 @@
 
 Scala
 ——
+
+https://www.youtube.com/watch?v=DzFt0YkZo8M
 Why Scala or Java?
 What do you lose Learning curve?
 
